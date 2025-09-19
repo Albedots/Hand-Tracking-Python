@@ -1,5 +1,5 @@
 # *HandTracking using CV and AI*
-Projeto criado na **Semana do Python** da **Empowerdata**. O programa realiza a captura de imagem da sua webcam varias vezes por segundo (reproduzindo um vídeo) e ira realizar o trackeamento visual das suas mãos quando forem mostradas a câmera OBS: O tracking só ira ser realizado quando as mãos forem mostradas nitidamente a câmera e o script tiver 80% de certeza que capturou suas mãos.
+O Projeto realiza a captura de imagem da sua webcam varias vezes por segundo (reproduzindo um vídeo) e ira realizar o trackeamento visual das suas mãos quando forem mostradas a câmera OBS: O tracking só ira ser realizado quando as mãos forem mostradas nitidamente a câmera e o script tiver 80% de certeza que capturou suas mãos.
 
 ## *Funcionalidades*
 - **Captura de tela**: O script ira tirar varias fotos por segundo, usando a camera do dispositivo, gerando um video.
